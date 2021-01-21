@@ -11,6 +11,6 @@
   "dependencies": {
     "mongo": "^0.1.0",
     "mongodb": "^2.2.36",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
